@@ -1,0 +1,1 @@
+This repo is for Migrating CoffeeScript to ES6 JavaScript by Jonathon Kresner. And it's one of the first ever git backed AirPair posts :{}
